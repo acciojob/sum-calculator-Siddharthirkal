@@ -35,7 +35,7 @@ function SumCalculator() {
         onChange={handleChange}
       />
 
-      <h3>Sum: {sum}</h3>
+      <p>Sum: {sum}</p>
     </div>
   );
 }
